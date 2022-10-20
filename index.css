@@ -1,0 +1,12 @@
+body {
+  background: white;
+  color: black;
+}
+
+.title {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  margin-top: 20px;
+  margin-left: 25px;
+}
